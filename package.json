@@ -24,14 +24,15 @@
   "homepage": "https://github.com/SumiranAgg/filetransform#readme",
   "devDependencies": {
     "@types/chai": "^4.2.4",
+    "@types/jest": "^26.0.9",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.11.6",
+    "@types/node": "^12.12.54",
     "chai": "^4.2.0",
     "mocha": "^6.2.2",
     "nyc": "^15.0.0",
     "sinon": "^7.5.0",
     "ts-node": "^8.4.1",
-    "typescript": "^3.6.4"
+    "typescript": "^3.9.7"
   },
   "dependencies": {
     "@actions/core": "^1.1.3",
