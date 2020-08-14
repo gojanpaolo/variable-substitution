@@ -4,7 +4,7 @@ import { XmlDomUtility } from "./xmlDomUtility";
 
 let envVarUtility = require ('./envVariableUtility');
 
-const tags = ["applicationSettings", "appSettings", "connectionStrings", "configSections"];
+const tags = ["applicationSettings", "appSettings", "connectionStrings", "configSections", "machineKey"];
 
 export class XmlSubstitution {
 
